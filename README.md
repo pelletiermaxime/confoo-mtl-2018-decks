@@ -62,6 +62,8 @@ By [Marc Perez](https://confoo.ca/en/speaker/marc-perez)
 #### [Java EE 8 & HTTP/2](https://confoo.ca/en/yul2018/session/java-ee-8-http-2)
 By [Ryan Cuprak](https://confoo.ca/en/speaker/ryan-cuprak)
 
+### 11:00-11:45
+
 #### [Designing for Users: How to Create a Better User Experience](https://confoo.ca/en/yul2018/session/designing-for-users-how-to-create-a-better-user-experience-1)
 By [Clarissa Peterson](https://confoo.ca/en/speaker/clarissa-peterson)
 
@@ -142,12 +144,6 @@ By [Henri Tremblay](https://confoo.ca/en/speaker/henri-tremblay)
 
 #### [A Deep Dive into New Ruby Features](https://confoo.ca/en/yul2018/session/a-deep-dive-into-new-ruby-features)
 By [Shannon Skipper](https://confoo.ca/en/speaker/shannon-skipper)
-
-#### [](https://confoo.caundefined)
-By [](https://confoo.caundefined)
-
-#### [](https://confoo.caundefined)
-By [](https://confoo.caundefined)
 
 #### [Building intelligent apps for lazy coders](https://confoo.ca/en/yul2018/session/building-intelligent-apps-for-lazy-coders-1)
 By [Susan Ibach](https://confoo.ca/en/speaker/susan-ibach)
