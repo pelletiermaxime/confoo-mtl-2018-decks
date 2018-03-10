@@ -91,6 +91,8 @@ By [Thomas Deneulin](https://confoo.ca/en/speaker/thomas-deneulin)
 #### [Java EE 8 is final! Now what?](https://confoo.ca/en/yul2018/session/java-ee-8-is-final-now-what)
 By [David Delabassee](https://confoo.ca/en/speaker/david-delabassee)
 
+### 13:00-13:45
+
 #### [Modern jQuery: Refactoring and Testing the Way Forward](https://confoo.ca/en/yul2018/session/modern-jquery-refactoring-and-testing-the-way-forward)
 By [Ken Dale](https://confoo.ca/en/speaker/ken-dale)
 
@@ -117,6 +119,8 @@ By [Andrew Lombardi](https://confoo.ca/en/speaker/andrew-lombardi)
 
 #### [An Introduction of Interator Pattern in Ruby](https://confoo.ca/en/yul2018/session/an-introduction-of-interator-pattern-in-ruby)
 By [Weihang Jian](https://confoo.ca/en/speaker/weihang-jian)
+
+### 14:00-14:45
 
 #### [Asynchronicity: concurrency. A tale of](https://confoo.ca/en/yul2018/session/asynchronicity-concurrency-a-tale-of)
 By [Joel Lord](https://confoo.ca/en/speaker/joel-lord)
@@ -145,6 +149,8 @@ By [Henri Tremblay](https://confoo.ca/en/speaker/henri-tremblay)
 #### [A Deep Dive into New Ruby Features](https://confoo.ca/en/yul2018/session/a-deep-dive-into-new-ruby-features)
 By [Shannon Skipper](https://confoo.ca/en/speaker/shannon-skipper)
 
+### 15:00-15:45
+
 #### [Building intelligent apps for lazy coders](https://confoo.ca/en/yul2018/session/building-intelligent-apps-for-lazy-coders-1)
 By [Susan Ibach](https://confoo.ca/en/speaker/susan-ibach)
 
@@ -166,14 +172,23 @@ By [Pierre-Luc Maheu](https://confoo.ca/en/speaker/pierre-luc-maheu)
 #### [Composing Music in the Cloud](https://confoo.ca/en/yul2018/session/composing-music-in-the-cloud)
 By [James Weaver](https://confoo.ca/en/speaker/james-weaver)
 
+### 16:00-16:30
+
 #### [Innovating is not about technology, but psychology](https://confoo.ca/en/yul2018/session/innovating-is-not-about-technology-but-psychology)
 By [Alyssa Nicoll](https://confoo.ca/en/speaker/alyssa-nicoll)
+
+## Thursday
+### 9:00-9:25
 
 #### [The Myth of Culture](https://confoo.ca/en/yul2018/session/the-myth-of-culture)
 By [Ken Coar](https://confoo.ca/en/speaker/ken-coar-1)
 
+### 9:25-9:50
+
 #### [Code Is Not Neutral: the Ethics of Programming](https://confoo.ca/en/yul2018/session/code-is-not-neutral-the-ethics-of-programming)
 By [Clarissa Peterson](https://confoo.ca/en/speaker/clarissa-peterson)
+
+### 10:00-10:45
 
 #### [Faire de la revue de code comme un pro](https://confoo.ca/en/yul2018/session/faire-de-la-revue-de-code-comme-un-pro)
 By [Marc-Antoine Aubé](https://confoo.ca/en/speaker/marc-antoine-aube-1)
@@ -202,6 +217,8 @@ By [Christopher Riley](https://confoo.ca/en/speaker/christopher-riley)
 #### [Using Ruby to Get out of Debt](https://confoo.ca/en/yul2018/session/using-ruby-to-get-out-of-debt)
 By [Jason Charnes](https://confoo.ca/en/speaker/jason-charnes)
 
+### 11:00-11:45
+
 #### [Hot Reloading Everywhere](https://confoo.ca/en/yul2018/session/hot-reloading-everywhere)
 By [Christophe Porteneuve](https://confoo.ca/en/speaker/christophe-porteneuve)
 
@@ -228,6 +245,8 @@ By [Frederic Thouin](https://confoo.ca/en/speaker/frederic-thouin)
 
 #### [Extracting A Gem From Your Rails App](https://confoo.ca/en/yul2018/session/extracting-a-gem-from-your-rails-app-1)
 By [Sophie Déziel](https://confoo.ca/en/speaker/sophie-deziel)
+
+### 13:00-13:45
 
 #### [Techniques to Design Better Object Oriented Softwares](https://confoo.ca/en/yul2018/session/techniques-to-design-better-object-oriented-softwares)
 By [Hugo Hamon](https://confoo.ca/en/speaker/hugo-hamon)
@@ -256,6 +275,8 @@ By [Toufic Sbeiti](https://confoo.ca/en/speaker/toufic-sbeiti)
 #### [Être pragmatique](https://confoo.ca/en/yul2018/session/etre-pragmatique)
 By [Henri Tremblay](https://confoo.ca/en/speaker/henri-tremblay)
 
+### 14:00-14:45
+
 #### [360° Monitoring of Your PHP Application](https://confoo.ca/en/yul2018/session/36-monitoring-of-your-php-application)
 By [Philipp Krenn](https://confoo.ca/en/speaker/philipp-krenn)
 
@@ -282,6 +303,8 @@ By [David Delabassee](https://confoo.ca/en/speaker/david-delabassee)
 
 #### [NuGet beyond Hello World](https://confoo.ca/en/yul2018/session/nuget-beyond-hello-world-1)
 By [Maarten Balliauw](https://confoo.ca/en/speaker/maarten-balliauw)
+
+### 15:00-15:45
 
 #### [Monitoring Jenkins -- Someone has to watch over the Butler!](https://confoo.ca/en/yul2018/session/monitoring-jenkins-someone-has-to-watch-over-the-butler)
 By [Tom Chavez](https://confoo.ca/en/speaker/tom-chavez)
@@ -310,6 +333,8 @@ By [Jonathan Day](https://confoo.ca/en/speaker/jonathan-day)
 #### [ASP.NET in Linux and Windows containers](https://confoo.ca/en/yul2018/session/asp-net-in-linux-and-windows-containers)
 By [Rob Richardson](https://confoo.ca/en/speaker/rob-richardson)
 
+### 16:00-16:45
+
 #### [What is Domain Driven Design and Why it Matters](https://confoo.ca/en/yul2018/session/what-is-domain-driven-design-and-why-it-matters)
 By [Pierre-Luc Maheu](https://confoo.ca/en/speaker/pierre-luc-maheu)
 
@@ -336,6 +361,10 @@ By [Newman Hunter](https://confoo.ca/en/speaker/newman-hunter)
 
 #### [Using Ruby's Marshal module to checkpoint tasks](https://confoo.ca/en/yul2018/session/using-ruby-s-marshal-module-to-checkpoint-tasks)
 By [Ken Coar](https://confoo.ca/en/speaker/ken-coar-1)
+
+## Friday
+
+### 09:00-09:45
 
 #### [JavaScript State of the Union](https://confoo.ca/en/yul2018/session/javascript-state-of-the-union)
 By [Jordi Boggiano](https://confoo.ca/en/speaker/jordi-boggiano)
@@ -364,6 +393,8 @@ By [Toufic Sbeiti](https://confoo.ca/en/speaker/toufic-sbeiti)
 #### [Escape from Jar Hell (with Java 9 Modularity)](https://confoo.ca/en/yul2018/session/escape-from-jar-hell-with-java-9-modularity-1)
 By [Nick Maiorano](https://confoo.ca/en/speaker/nick-maiorano)
 
+### 10:00-10:45
+
 #### [Developing cacheable PHP applications](https://confoo.ca/en/yul2018/session/developing-cacheable-php-applications)
 By [Thijs Feryn](https://confoo.ca/en/speaker/thijs-feryn)
 
@@ -390,6 +421,8 @@ By [Michiel Rook](https://confoo.ca/en/speaker/michiel-rook)
 
 #### [Vertical Feature Slices, not Layers!](https://confoo.ca/en/yul2018/session/vertical-feature-slices-not-layers)
 By [Derek Comartin](https://confoo.ca/en/speaker/derek-comartin)
+
+### 11:00-11:45
 
 #### [Event driven development](https://confoo.ca/en/yul2018/session/event-driven-development)
 By [Christopher Riley](https://confoo.ca/en/speaker/christopher-riley)
@@ -418,6 +451,8 @@ By [Jonathan Day](https://confoo.ca/en/speaker/jonathan-day)
 #### [The easiest way to secure your JAM Stack apps user data](https://confoo.ca/en/yul2018/session/the-easiest-way-to-secure-your-jam-stack-apps-user-data)
 By [Adam L Barrett](https://confoo.ca/en/speaker/adam-l-barrett)
 
+### 13:00-13:45
+
 #### [Building Cross Platform Progressive Web Apps](https://confoo.ca/en/yul2018/session/building-cross-platform-progressive-web-apps)
 By [Simon MacDonald](https://confoo.ca/en/speaker/simon-macdonald)
 
@@ -445,6 +480,8 @@ By [Geoffrey Goodman](https://confoo.ca/en/speaker/geoffrey-goodman)
 #### [Infinately Scalable .NET Web Services](https://confoo.ca/en/yul2018/session/infinately-scalable-net-web-services)
 By [Newman Hunter](https://confoo.ca/en/speaker/newman-hunter)
 
+### 14:00-14:45
+
 #### [Security and Privacy in a National Security World](https://confoo.ca/en/yul2018/session/security-and-privacy-in-a-national-security-world)
 By [Ben Dechrai](https://confoo.ca/en/speaker/ben-dechrai)
 
@@ -471,6 +508,8 @@ By [Sean Yo](https://confoo.ca/en/speaker/sean-yo)
 
 #### [Azure 101](https://confoo.ca/en/yul2018/session/azure-101)
 By [Laurent Bugnion](https://confoo.ca/en/speaker/laurent-bugnion)
+
+### 15:00-15:45
 
 #### [CSS Grid: True Layout Finally Arrives](https://confoo.ca/en/yul2018/session/css-grid-true-layout-finally-arrives)
 By [Jen Kramer](https://confoo.ca/en/speaker/jen-kramer)
