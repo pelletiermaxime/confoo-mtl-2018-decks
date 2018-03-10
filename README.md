@@ -61,9 +61,9 @@ Github [user](https://github.com/user)
 #### [Think Async in NodeJS](https://confoo.ca/en/yul2018/session/think-async-in-nodejs)
 By [Adam L Barrett](https://confoo.ca/en/speaker/adam-l-barrett)
 
-Twitter [@adamlbarrett](https://twitter.com/adamlbarrett)
-
-Joind in [comment](https://joind.in/event/confoo-montreal-2018/think-async-in-nodejs)
+* Twitter: [@adamlbarrett](https://twitter.com/adamlbarrett)
+* [Joind in](https://joind.in/event/confoo-montreal-2018/think-async-in-nodejs)
+* Deck: [Slideshare](https://www.slideshare.net/adamlbarrett/think-async-asynchronous-patterns-in-nodejs)
 
 #### [Small intro to Big Data](https://confoo.ca/en/yul2018/session/small-intro-to-big-data)
 By [Michał Matłoka](https://confoo.ca/en/speaker/michal-matloka)
@@ -477,6 +477,9 @@ By [Jonathan Day](https://confoo.ca/en/speaker/jonathan-day)
 
 #### [The easiest way to secure your JAM Stack apps user data](https://confoo.ca/en/yul2018/session/the-easiest-way-to-secure-your-jam-stack-apps-user-data)
 By [Adam L Barrett](https://confoo.ca/en/speaker/adam-l-barrett)
+
+* Twitter: [@adamlbarrett](https://twitter.com/adamlbarrett)
+* Deck: [Slideshare](https://www.slideshare.net/adamlbarrett/the-easiest-way-to-secure-your-jam-stack-apps-user-data)
 
 ### 13:00-13:45
 
