@@ -68,23 +68,52 @@ By [Adam L Barrett](https://confoo.ca/en/speaker/adam-l-barrett)
 #### [Small intro to Big Data](https://confoo.ca/en/yul2018/session/small-intro-to-big-data)
 By [Michał Matłoka](https://confoo.ca/en/speaker/michal-matloka)
 
+* Twitter: [@mmatloka](https://twitter.com/mmatloka)
+* Github: [mmatloka](https://github.com/mmatloka)
+* Deck: [Slideshare](https://www.slideshare.net/SoftwareMill/small-intro-to-big-data-90162523)
+
 #### [How I learned to stop worrying and love Regular Expressions](https://confoo.ca/en/yul2018/session/how-i-learned-to-stop-worrying-and-love-regular-expressions)
 By [Jordi Boggiano](https://confoo.ca/en/speaker/jordi-boggiano)
+
+* Twitter: [@seldaek](https://twitter.com/seldaek)
+* Github: [Seldaek](https://github.com/Seldaek)
+* Deck: [Link](http://slides.seld.be/?file=2018-03-09+Javascript+State+of+the+Union.html#1)
 
 #### [Scale search powered apps with Elasticsearch, k8s and go](https://confoo.ca/en/yul2018/session/scale-search-powered-apps-with-elasticsearch-k8s-and-go)
 By [Maxime Boisvert](https://confoo.ca/en/speaker/maxime-boisvert-1)
 
+* Web: http://maxboisvert.com
+* Twitter: [@maxboisvert](https://twitter.com/maxboisvert)
+* Github: [maxboisvert](https://github.com/maxboisvert)
+* Deck: [Github](https://github.com/maxboisvert/confoo-montreal-2018)
+
 #### [Extracting data from the Internet with Scrapy](https://confoo.ca/en/yul2018/session/extracting-data-from-the-internet-with-scrapy)
 By [Israël Hallé](https://confoo.ca/en/speaker/israel-halle)
+
+* Twitter: [@IsraelHalle](https://twitter.com/IsraelHalle)
+* Github: [isra17](https://github.com/isra17)
+* Deck: [Google docs](http://confoo.isra17.xyz)
+* Code: [Github](https://github.com/isra17/confoo18-scrapy)
 
 #### [Accessibility Foundations](https://confoo.ca/en/yul2018/session/accessibility-foundations)
 By [Sean Yo](https://confoo.ca/en/speaker/sean-yo)
 
+* Web: http://seanyo.ca
+* Twitter: [@seanyo](https://twitter.com/seanyo)
+* Deck: [Google docs](https://goo.gl/9C3pNH)
+
 #### [IoC container beyond constructor injection](https://confoo.ca/en/yul2018/session/ioc-container-beyond-constructor-injection)
 By [Hannes Van De Vreken](https://confoo.ca/en/speaker/hannes-van-de-vreken)
 
+* Web: https://hannesvdvreken.com
+* Twitter: [@hannesvdvreken](https://twitter.com/hannesvdvreken)
+* Deck: [Speakerdeck](https://speakerdeck.com/hannesvdvreken/ioc-container-confoo-montreal-2018)
+
 #### [Speed Date With An SEO / SEM / WPO Specialist](https://confoo.ca/en/yul2018/session/speed-date-with-an-seo-sem-wpo-specialist)
 By [Marc Perez](https://confoo.ca/en/speaker/marc-perez)
+
+* Web: https://www.mrperezmarc.com
+* Twitter: [mrPerezMarc](https://twitter.com/mrPerezMarc)
 
 #### [Java EE 8 & HTTP/2](https://confoo.ca/en/yul2018/session/java-ee-8-http-2)
 By [Ryan Cuprak](https://confoo.ca/en/speaker/ryan-cuprak)
@@ -189,6 +218,10 @@ By [Olivier Gourment](https://confoo.ca/en/speaker/olivier-gourment)
 
 #### [Behat: Why and How?](https://confoo.ca/en/yul2018/session/behat-why-and-how)
 By [Anna Filina](https://confoo.ca/en/speaker/anna-filina)
+
+* Web: https://afilina.com
+* Twitter: [@afilina](https://twitter.com/afilina)
+* Deck: [Speakerdeck](https://speakerdeck.com/afilina/behat-why-and-how)
 
 #### [Writing Viruses for Fun, not Profit](https://confoo.ca/en/yul2018/session/writing-viruses-for-fun-not-profit)
 By [Ben Dechrai](https://confoo.ca/en/speaker/ben-dechrai)
@@ -469,6 +502,10 @@ By [Rob Richardson](https://confoo.ca/en/speaker/rob-richardson)
 #### [PHP PSR-7 HTTP messages in the wild](https://confoo.ca/en/yul2018/session/php-psr-7-http-messages-in-the-wild)
 By [Hannes Van De Vreken](https://confoo.ca/en/speaker/hannes-van-de-vreken)
 
+* Web: https://hannesvdvreken.com
+* Twitter: [@hannesvdvreken](https://twitter.com/hannesvdvreken)
+* Deck: [Speakerdeck](https://speakerdeck.com/hannesvdvreken/modern-http-handling-with-php-confoo-montreal-2018)
+
 #### [Use Positive Communication, Increase Positive Results!](https://confoo.ca/en/yul2018/session/use-positive-communication-increase-positive-results)
 By [Sonia Di Maulo](https://confoo.ca/en/speaker/sonia-di-maulo-1)
 
@@ -535,6 +572,10 @@ By [Ram  Lakshmanan](https://confoo.ca/en/speaker/ram-lakshmanan-1)
 
 #### [Understanding Product Management](https://confoo.ca/en/yul2018/session/understanding-product-management)
 By [Sean Yo](https://confoo.ca/en/speaker/sean-yo)
+
+* Web: http://seanyo.ca
+* Twitter: [@seanyo](https://twitter.com/seanyo)
+* Deck: [Google docs](http://bit.ly/2De6YsT)
 
 #### [Azure 101](https://confoo.ca/en/yul2018/session/azure-101)
 By [Laurent Bugnion](https://confoo.ca/en/speaker/laurent-bugnion)
