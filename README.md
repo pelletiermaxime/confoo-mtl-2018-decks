@@ -188,6 +188,10 @@ By [Léonie Watson](https://confoo.ca/en/speaker/leonie-watson)
 #### [Gentle introduction to SSL/TLS, certificates, and TLS 1.3](https://confoo.ca/en/yul2018/session/gentle-introduction-to-ssl-tls-certificates-and-tls-1-3)
 By [Christian Heimes](https://confoo.ca/en/speaker/christian-heimes)
 
+* Twitter: [@ChristianHeimes](https://twitter.com/ChristianHeimes)
+* Github: [tiran](https://github.com/tiran)
+* Deck: [Speaker Deck](https://speakerdeck.com/tiran/tls-certificates-and-tls-1-dot-3)
+
 #### [Ingest node: enriching documents within Elasticsearch](https://confoo.ca/en/yul2018/session/ingest-node-enriching-documents-within-elasticsearch-1)
 By [David Pilato](https://confoo.ca/en/speaker/david-pilato)
 
@@ -216,6 +220,11 @@ By [Gleb Bahmutov](https://confoo.ca/en/speaker/gleb-bahmutov)
 
 #### [Does it NEED to be a PWA?](https://confoo.ca/en/yul2018/session/does-it-need-to-be-a-pwa)
 By [Tara Z. Manicsic](https://confoo.ca/en/speaker/tara-z-manicsic)
+
+* Web: https://tzmanics.com
+* Twitter: [@tzmanics](https://twitter.com/tzmanics)
+* Github: [tiran](https://github.com/tiran)
+* Deck: [Github](https://github.com/tzmanics/talk-slides/blob/master/2018_confoo.pdf)
 
 #### [Building Distributed Systems in Distributed Teams](https://confoo.ca/en/yul2018/session/building-distributed-systems-in-distributed-teams)
 By [Philipp Krenn](https://confoo.ca/en/speaker/philipp-krenn)
@@ -255,6 +264,11 @@ By [Anna Filina](https://confoo.ca/en/speaker/anna-filina)
 
 #### [Writing Viruses for Fun, not Profit](https://confoo.ca/en/yul2018/session/writing-viruses-for-fun-not-profit)
 By [Ben Dechrai](https://confoo.ca/en/speaker/ben-dechrai)
+
+* Web: https://bendechrai.com/
+* Twitter: [@bendechrai](https://twitter.com/bendechrai)
+* Github: [bendechrai](https://github.com/bendechrai)
+* Video: [Youtube](https://www.youtube.com/watch?v=GNetbBsMpJg)
 
 #### [Demystifying Asynchronous Programming in .Net](https://confoo.ca/en/yul2018/session/demystifying-asynchronous-programming-in-net)
 By [Pierre-Luc Maheu](https://confoo.ca/en/speaker/pierre-luc-maheu)
@@ -319,11 +333,20 @@ By [Christophe Porteneuve](https://confoo.ca/en/speaker/christophe-porteneuve)
 #### [API Development with Laravel](https://confoo.ca/en/yul2018/session/api-development-with-laravel)
 By [Michael Peacock](https://confoo.ca/en/speaker/michael-peacock)
 
+* Web: https://michaelpeacock.co.uk
+* Twitter: [@michaelpeacock](https://twitter.com/michaelpeacock)
+* Github: [timkpeacockran](https://github.com/mkpeacock)
+* Deck: [SlideShare](https://www.slideshare.net/michaelpeacock/api-development-with-laravel)
+
 #### [What's new in PostgreSQL 10](https://confoo.ca/en/yul2018/session/what-s-new-in-postgresql-10)
 By [Magnus Hagander](https://confoo.ca/en/speaker/magnus-hagander)
 
 #### [Authentication: passwords, 2FA, Kerberos, OpenIDC, and more](https://confoo.ca/en/yul2018/session/authentication-passwords-2fa-kerberos-openidc-and-more)
 By [Christian Heimes](https://confoo.ca/en/speaker/christian-heimes)
+
+* Twitter: [@ChristianHeimes](https://twitter.com/ChristianHeimes)
+* Github: [tiran](https://github.com/tiran)
+* Deck: [Speaker Deck](https://speakerdeck.com/tiran/confoo-2018-authentication-passwords-2fa-kerberos-openidc-and-more)
 
 #### [Spark 101](https://confoo.ca/en/yul2018/session/spark-101)
 By [Francis Toth](https://confoo.ca/en/speaker/francis-toth-1)
@@ -507,6 +530,11 @@ By [Christophe Philemotte](https://confoo.ca/en/speaker/christophe-philemotte)
 #### [Alexa, let's make a skill](https://confoo.ca/en/yul2018/session/alexa-let-s-make-a-skill)
 By [Michael Peacock](https://confoo.ca/en/speaker/michael-peacock)
 
+* Web: https://michaelpeacock.co.uk
+* Twitter: [@michaelpeacock](https://twitter.com/michaelpeacock)
+* Github: [timkpeacockran](https://github.com/mkpeacock)
+* Deck: [SlideShare](https://www.slideshare.net/michaelpeacock/alexa-lets-make-a-skill)
+
 #### [Comment répondre plus rapidement à vos clients avec l'IA](https://confoo.ca/en/yul2018/session/comment-repondre-plus-rapidement-a-vos-clients-avec-l-ia)
 By [Michael Gradek](https://confoo.ca/en/speaker/michael-gradek)
 
@@ -593,6 +621,12 @@ By [Newman Hunter](https://confoo.ca/en/speaker/newman-hunter)
 
 #### [Security and Privacy in a National Security World](https://confoo.ca/en/yul2018/session/security-and-privacy-in-a-national-security-world)
 By [Ben Dechrai](https://confoo.ca/en/speaker/ben-dechrai)
+
+* Web: https://bendechrai.com/
+* Twitter: [@bendechrai](https://twitter.com/bendechrai)
+* Github: [bendechrai](https://github.com/bendechrai)
+* Deck: [Github](https://github.com/privacybastion/zeroknowledge-presentation/blob/master/Zero%20Knowledge.odp)
+* Code: [Github](https://github.com/privacybastion/zeroknowledge-demo)
 
 #### [So, what’s new in ES2020?](https://confoo.ca/en/yul2018/session/so-what-s-new-in-es2-2)
 By [Christophe Porteneuve](https://confoo.ca/en/speaker/christophe-porteneuve)
