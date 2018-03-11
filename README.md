@@ -123,11 +123,22 @@ By [Ryan Cuprak](https://confoo.ca/en/speaker/ryan-cuprak)
 #### [Designing for Users: How to Create a Better User Experience](https://confoo.ca/en/yul2018/session/designing-for-users-how-to-create-a-better-user-experience-1)
 By [Clarissa Peterson](https://confoo.ca/en/speaker/clarissa-peterson)
 
+* Web: http://www.clarissapeterson.com
+* Twitter: [@clarissa](https://twitter.com/clarissa)
+* Deck: [Speakerdeck](https://speakerdeck.com/clarissa/designing-for-users-how-to-create-a-better-user-experience)
+
 #### [ReST 3.0 – a Lap around HTTP APIs’ next Generation](https://confoo.ca/en/yul2018/session/rest-3-a-lap-around-http-apis-next-generation)
 By [Sebastien Lambla](https://confoo.ca/en/speaker/sebastien-lambla)
 
+* Web: https://serialseb.com
+* Twitter: [@serialseb](https://twitter.com/serialseb)
+* Github: [serialseb](https://github.com/serialseb)
+
 #### [Why and How Instagram Built for Mobile Web](https://confoo.ca/en/yul2018/session/why-and-how-instagram-built-for-mobile-web)
 By [Jennifer Lin](https://confoo.ca/en/speaker/jennifer-lin)
+
+* Web: http://jenny.webs.com
+* Twitter: [@_jennylin](https://twitter.com/_jennylin)
 
 #### [Automatic web requests clustering for latency analysis](https://confoo.ca/en/yul2018/session/automatic-web-requests-clustering-for-latency-analysis)
 By [Naser Ezzati Jivan](https://confoo.ca/en/speaker/naser-ezzati-jivan)
@@ -135,17 +146,36 @@ By [Naser Ezzati Jivan](https://confoo.ca/en/speaker/naser-ezzati-jivan)
 #### [Harnessing the power of AWS using .NET Core](https://confoo.ca/en/yul2018/session/harnessing-the-power-of-aws-using-net-core)
 By [Dror Helper](https://confoo.ca/en/speaker/dror-helper)
 
+* Web: https://helpercode.com
+* Twitter: [@dhelper](https://twitter.com/dhelper)
+* Deck: [Speakerdeck](https://www.slideshare.net/dhelper/harnessing-the-power-of-aws-using-dot-net)
+
 #### [Database schema migrations with zero downtime](https://confoo.ca/en/yul2018/session/database-schema-migrations-with-zero-downtime)
 By [Michiel Rook](https://confoo.ca/en/speaker/michiel-rook)
+
+* Web: https://www.michielrook.nl
+* Twitter: [@michieltcs](https://twitter.com/michieltcs)
+* Github: [mrook](https://github.com/mrook)
+* Deck: [Speakerdeck](https://speakerdeck.com/mrook/database-schema-migrations-with-zero-downtime-confoo-montreal-2018)
 
 #### [Ruby for Non-Rubyists](https://confoo.ca/en/yul2018/session/ruby-for-non-rubyists)
 By [Brad Urani](https://confoo.ca/en/speaker/brad-urani)
 
+* Twitter: [@bradurani](https://twitter.com/bradurani)
+* Github: [bradurani](https://github.com/bradurani)
+* Deck: [Google docs](https://docs.google.com/presentation/d/1n21n6xiqRjcchoBSs63zh30mhcsnSp_-vfKcr4eHoww/edit?usp=sharing)
+
 #### [Ecommerçants, augmentez votre taux de conversion.](https://confoo.ca/en/yul2018/session/ecommercants-augmentez-votre-taux-de-conversion)
 By [Thomas Deneulin](https://confoo.ca/en/speaker/thomas-deneulin)
 
+* Twitter: [@TDeneulin](https://twitter.com/TDeneulin)
+* Github: [Gmulti](https://github.com/Gmulti)
+
 #### [Java EE 8 is final! Now what?](https://confoo.ca/en/yul2018/session/java-ee-8-is-final-now-what)
 By [David Delabassee](https://confoo.ca/en/speaker/david-delabassee)
+
+* Twitter: [@delabassee](https://twitter.com/delabassee)
+* Github: [delabassee](https://github.com/delabassee)
 
 ### 13:00-13:45
 
@@ -268,6 +298,10 @@ By [Brent Shaffer](https://confoo.ca/en/speaker/brent-shaffer)
 #### [Developing multi-platform microservices using .NET core](https://confoo.ca/en/yul2018/session/developing-multi-platform-microservices-using-net-core)
 By [Dror Helper](https://confoo.ca/en/speaker/dror-helper)
 
+* Web: https://helpercode.com
+* Twitter: [@dhelper](https://twitter.com/dhelper)
+* Deck: [Speakerdeck](https://www.slideshare.net/dhelper/developing-multiplatform-microservices-using-net-core)
+
 #### [Functional approach in software design](https://confoo.ca/en/yul2018/session/functional-approach-in-software-design)
 By [Tomasz Kowalczyk](https://confoo.ca/en/speaker/tomasz-kowalczyk-1)
 
@@ -381,6 +415,9 @@ By [Stéphane Boisvert](https://confoo.ca/en/speaker/stephane-boisvert)
 #### [The Growing Importance of Optimizing for UC Browser](https://confoo.ca/en/yul2018/session/the-growing-importance-of-optimizing-for-uc-browser)
 By [Jennifer Lin](https://confoo.ca/en/speaker/jennifer-lin)
 
+* Web: http://jenny.webs.com
+* Twitter: [@_jennylin](https://twitter.com/_jennylin)
+
 #### [Navigate All the Knowledge](https://confoo.ca/en/yul2018/session/navigate-all-the-knowledge)
 By [James Weaver](https://confoo.ca/en/speaker/james-weaver)
 
@@ -478,6 +515,11 @@ By [Nicolas Fränkel](https://confoo.ca/en/speaker/nicolas-fraenkel)
 
 #### [CQRS & Event Sourcing in the wild](https://confoo.ca/en/yul2018/session/cqrs-event-sourcing-in-the-wild)
 By [Michiel Rook](https://confoo.ca/en/speaker/michiel-rook)
+
+* Web: https://www.michielrook.nl
+* Twitter: [@michieltcs](https://twitter.com/michieltcs)
+* Github: [mrook](https://github.com/mrook)
+* Deck: [Speakerdeck](https://speakerdeck.com/mrook/cqrs-and-event-sourcing-in-the-wild-confoo-montreal-2018)
 
 #### [Vertical Feature Slices, not Layers!](https://confoo.ca/en/yul2018/session/vertical-feature-slices-not-layers)
 By [Derek Comartin](https://confoo.ca/en/speaker/derek-comartin)
