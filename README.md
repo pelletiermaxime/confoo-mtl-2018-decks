@@ -207,6 +207,10 @@ By [Christopher Harrison](https://confoo.ca/en/speaker/christopher-harrison)
 #### [Build your own cryptocurrency for fun and fractional profit](https://confoo.ca/en/yul2018/session/build-your-own-cryptocurrency-for-fun-and-fractional-profit)
 By [Andrew Lombardi](https://confoo.ca/en/speaker/andrew-lombardi)
 
+* Web: https://mysticcoders.com
+* Twitter: [@kinabalu](https://twitter.com/kinabalu)
+* Deck: [Github](https://github.com/kinabalu/build_own_cryptocurrency)
+
 #### [An Introduction of Interator Pattern in Ruby](https://confoo.ca/en/yul2018/session/an-introduction-of-interator-pattern-in-ruby)
 By [Weihang Jian](https://confoo.ca/en/speaker/weihang-jian)
 
@@ -319,6 +323,10 @@ By [Dror Helper](https://confoo.ca/en/speaker/dror-helper)
 #### [Functional approach in software design](https://confoo.ca/en/yul2018/session/functional-approach-in-software-design)
 By [Tomasz Kowalczyk](https://confoo.ca/en/speaker/tomasz-kowalczyk-1)
 
+* Web: http://kowalczyk.cc
+* Twitter: [@tmmx](https://twitter.com/tmmx)
+* Deck: [Speakerdeck](https://speakerdeck.com/thunderer/functional-approach-in-software-design)
+
 #### [More Secrets of Cryptography](https://confoo.ca/en/yul2018/session/more-secrets-of-cryptography)
 By [Christopher Riley](https://confoo.ca/en/speaker/christopher-riley)
 
@@ -385,6 +393,10 @@ By [Ryan Cuprak](https://confoo.ca/en/speaker/ryan-cuprak)
 
 #### [How to leverage WebSocket in the real world](https://confoo.ca/en/yul2018/session/how-to-leverage-websocket-in-the-real-world)
 By [Andrew Lombardi](https://confoo.ca/en/speaker/andrew-lombardi)
+
+* Web: https://mysticcoders.com
+* Twitter: [@kinabalu](https://twitter.com/kinabalu)
+* Deck: [Github](https://github.com/kinabalu/leverage_websocket_in_real_world)
 
 #### [Practical tools for Web Accessibility testing](https://confoo.ca/en/yul2018/session/practical-tools-for-web-accessibility-testing)
 By [Toufic Sbeiti](https://confoo.ca/en/speaker/toufic-sbeiti)
@@ -595,6 +607,10 @@ By [Simon MacDonald](https://confoo.ca/en/speaker/simon-macdonald)
 
 #### [Dive deep into blockchain](https://confoo.ca/en/yul2018/session/dive-deep-into-blockchain)
 By [Tomasz Kowalczyk](https://confoo.ca/en/speaker/tomasz-kowalczyk-1)
+
+* Web: http://kowalczyk.cc
+* Twitter: [@tmmx](https://twitter.com/tmmx)
+* Deck: [Speakerdeck](https://speakerdeck.com/thunderer/dive-deep-into-blockchain)
 
 #### [Advanced CSS tricks and techniques](https://confoo.ca/en/yul2018/session/advanced-css-tricks-and-techniques-1)
 By [Robert Richelieu](https://confoo.ca/en/speaker/robert-richelieu-1)
