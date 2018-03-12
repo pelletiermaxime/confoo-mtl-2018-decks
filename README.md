@@ -182,6 +182,8 @@ By [David Delabassee](https://confoo.ca/en/speaker/david-delabassee)
 #### [Modern jQuery: Refactoring and Testing the Way Forward](https://confoo.ca/en/yul2018/session/modern-jquery-refactoring-and-testing-the-way-forward)
 By [Ken Dale](https://confoo.ca/en/speaker/ken-dale)
 
+* Github: [kendaleiv](https://github.com/kendaleiv)
+
 #### [There's more to performance than meets the eye](https://confoo.ca/en/yul2018/session/there-s-more-to-performance-than-meets-the-eye)
 By [Léonie Watson](https://confoo.ca/en/speaker/leonie-watson)
 
@@ -382,6 +384,9 @@ By [Karim Baaba](https://confoo.ca/en/speaker/karim-baaba)
 #### [Build & deploy in the Cloud with Packer, Ansible & Terraform](https://confoo.ca/en/yul2018/session/build-deploy-in-the-cloud-with-packer-ansible-terraform)
 By [Thijs Feryn](https://confoo.ca/en/speaker/thijs-feryn)
 
+* Web: https://feryn.eu/
+* Deck: [feryn](https://feryn.eu/speaking/build-provision-deploy-cloud-packer-ansible-terraform-confoo-2018/)
+
 #### [Advanced search for your legacy application](https://confoo.ca/en/yul2018/session/advanced-search-for-your-legacy-application-1)
 By [David Pilato](https://confoo.ca/en/speaker/david-pilato)
 
@@ -408,6 +413,8 @@ By [Henri Tremblay](https://confoo.ca/en/speaker/henri-tremblay)
 
 #### [360° Monitoring of Your PHP Application](https://confoo.ca/en/yul2018/session/36-monitoring-of-your-php-application)
 By [Philipp Krenn](https://confoo.ca/en/speaker/philipp-krenn)
+
+* Github: [xeraa](https://github.com/xeraa)
 
 #### [How to onboard a junior developer](https://confoo.ca/en/yul2018/session/how-to-onboard-a-junior-developer)
 By [Christophe Philemotte](https://confoo.ca/en/speaker/christophe-philemotte)
