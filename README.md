@@ -182,6 +182,8 @@ By [David Delabassee](https://confoo.ca/en/speaker/david-delabassee)
 #### [Modern jQuery: Refactoring and Testing the Way Forward](https://confoo.ca/en/yul2018/session/modern-jquery-refactoring-and-testing-the-way-forward)
 By [Ken Dale](https://confoo.ca/en/speaker/ken-dale)
 
+* Web: https://kendaleiv.com
+* Twitter: [@kendaleiv](https://twitter.com/kendaleiv)
 * Github: [kendaleiv](https://github.com/kendaleiv)
 
 #### [There's more to performance than meets the eye](https://confoo.ca/en/yul2018/session/there-s-more-to-performance-than-meets-the-eye)
@@ -255,11 +257,18 @@ By [Philipp Krenn](https://confoo.ca/en/speaker/philipp-krenn)
 #### [The B-Tree,  the biggest problem of Ai?](https://confoo.ca/en/yul2018/session/the-b-tree-the-biggest-problem-of-ai)
 By [Jonathan Duquette](https://confoo.ca/en/speaker/jonathan-duquette)
 
+* Twitter: [@JonathanDuquett](https://twitter.com/JonathanDuquett)
+
 #### [Strong crypto for everyone - libsodium in PHP 7.2](https://confoo.ca/en/yul2018/session/strong-crypto-for-everyone-libsodium-in-php-7-2)
 By [Marcus Bointon](https://confoo.ca/en/speaker/marcus-bointon)
 
+* Twitter: [@SynchroM](https://twitter.com/SynchroM)
+* Github: [Synchro](https://github.com/Synchro)
+
 #### [Integrate your Machine Learning algorithm with Elasticsearch](https://confoo.ca/en/yul2018/session/integrate-your-machine-learning-algorithm-with-elasticsearch)
 By [Loic Bertron](https://confoo.ca/en/speaker/loic-bertron)
+
+* Twitter: [@loicbertron](https://twitter.com/loicbertron)
 
 #### [Papa, je veux déployer dans les nuages](https://confoo.ca/en/yul2018/session/papa-je-veux-deployer-dans-les-nuages)
 By [Henri Tremblay](https://confoo.ca/en/speaker/henri-tremblay)
@@ -271,6 +280,8 @@ By [Shannon Skipper](https://confoo.ca/en/speaker/shannon-skipper)
 
 #### [Building intelligent apps for lazy coders](https://confoo.ca/en/yul2018/session/building-intelligent-apps-for-lazy-coders-1)
 By [Susan Ibach](https://confoo.ca/en/speaker/susan-ibach)
+
+* Twitter: [@HockeyGeekGirl](https://twitter.com/HockeyGeekGirl)
 
 #### [You're only supposed to blow the bloody doors off!](https://confoo.ca/en/yul2018/session/you-re-only-supposed-to-blow-the-bloody-doors-off)
 By [Léonie Watson](https://confoo.ca/en/speaker/leonie-watson)
@@ -325,6 +336,11 @@ By [Marc-Antoine Aubé](https://confoo.ca/en/speaker/marc-antoine-aube-1)
 
 #### [Creating and Distributing Custom Web Components](https://confoo.ca/en/yul2018/session/creating-and-distributing-custom-web-components)
 By [Ken Dale](https://confoo.ca/en/speaker/ken-dale)
+
+* Web: https://kendaleiv.com
+* Twitter: [@kendaleiv](https://twitter.com/kendaleiv)
+* Github: [kendaleiv](https://github.com/kendaleiv)
+* Code: [Github](https://github.com/kendaleiv/giphy-search-component)
 
 #### [So you are not using an ORM yet ?](https://confoo.ca/en/yul2018/session/so-you-are-not-using-an-orm-yet-1)
 By [Michael Simonson](https://confoo.ca/en/speaker/michael-simonson-1)
@@ -524,6 +540,8 @@ By [Mark Heckler](https://confoo.ca/en/speaker/mark-heckler)
 #### [Help! My boss says I need to learn data science!](https://confoo.ca/en/yul2018/session/help-my-boss-says-i-need-to-learn-data-science-1)
 By [Susan Ibach](https://confoo.ca/en/speaker/susan-ibach)
 
+* Twitter: [@HockeyGeekGirl](https://twitter.com/HockeyGeekGirl)
+
 #### [Au-delà du top 10 de l’OWASP](https://confoo.ca/en/yul2018/session/au-dela-du-top-aa-de-l-owasp)
 By [Gérôme Dieu](https://confoo.ca/en/speaker/gerome-dieu)
 
@@ -543,6 +561,10 @@ By [Ken Coar](https://confoo.ca/en/speaker/ken-coar-1)
 #### [JavaScript State of the Union](https://confoo.ca/en/yul2018/session/javascript-state-of-the-union)
 By [Jordi Boggiano](https://confoo.ca/en/speaker/jordi-boggiano)
 
+* Twitter: [@seldaek](https://twitter.com/seldaek)
+* Github: [Seldaek](https://github.com/Seldaek)
+* Deck: [Link](http://slides.seld.be/?file=2018-03-09+Javascript+State+of+the+Union.html#1)
+
 #### [TypeScript for JavaScript developers](https://confoo.ca/en/yul2018/session/typescript-for-javascript-developers-1)
 By [Christopher Harrison](https://confoo.ca/en/speaker/christopher-harrison)
 
@@ -560,6 +582,9 @@ By [Michał Matłoka](https://confoo.ca/en/speaker/michal-matloka)
 
 #### [Tales from the wrong end](https://confoo.ca/en/yul2018/session/tales-from-the-wrong-end)
 By [Marcus Bointon](https://confoo.ca/en/speaker/marcus-bointon)
+
+* Twitter: [@SynchroM](https://twitter.com/SynchroM)
+* Github: [Synchro](https://github.com/Synchro)
 
 #### [Deploy Scalable and Secure Applications with Kubernetes](https://confoo.ca/en/yul2018/session/deploy-scalable-and-secure-applications-with-kubernetes)
 By [Brent Shaffer](https://confoo.ca/en/speaker/brent-shaffer)
