@@ -235,6 +235,10 @@ By [Tara Z. Manicsic](https://confoo.ca/en/speaker/tara-z-manicsic)
 #### [Building Distributed Systems in Distributed Teams](https://confoo.ca/en/yul2018/session/building-distributed-systems-in-distributed-teams)
 By [Philipp Krenn](https://confoo.ca/en/speaker/philipp-krenn)
 
+* Twitter: [@xeraa](https://twitter.com/xeraa)
+* Github: [xeraa](https://github.com/xeraa)
+* Deck: [Speaker Deck](https://speakerdeck.com/xeraa/building-distributed-systems-in-distributed-teams)
+
 #### [The B-Tree,  the biggest problem of Ai?](https://confoo.ca/en/yul2018/session/the-b-tree-the-biggest-problem-of-ai)
 By [Jonathan Duquette](https://confoo.ca/en/speaker/jonathan-duquette)
 
@@ -278,6 +282,9 @@ By [Ben Dechrai](https://confoo.ca/en/speaker/ben-dechrai)
 
 #### [Demystifying Asynchronous Programming in .Net](https://confoo.ca/en/yul2018/session/demystifying-asynchronous-programming-in-net)
 By [Pierre-Luc Maheu](https://confoo.ca/en/speaker/pierre-luc-maheu)
+
+* Twitter: [plmaheu](https://twitter.com/plmaheu)
+* Deck: [SlideShare](https://www.slideshare.net/PierreLucMaheu/asynchronous-programming-in-net-90097342)
 
 #### [Composing Music in the Cloud](https://confoo.ca/en/yul2018/session/composing-music-in-the-cloud)
 By [James Weaver](https://confoo.ca/en/speaker/james-weaver)
@@ -414,7 +421,10 @@ By [Henri Tremblay](https://confoo.ca/en/speaker/henri-tremblay)
 #### [360° Monitoring of Your PHP Application](https://confoo.ca/en/yul2018/session/36-monitoring-of-your-php-application)
 By [Philipp Krenn](https://confoo.ca/en/speaker/philipp-krenn)
 
+* Twitter: [@xeraa](https://twitter.com/xeraa)
 * Github: [xeraa](https://github.com/xeraa)
+* Deck: [Speaker Deck](https://speakerdeck.com/xeraa/monitor-your-php-application-with-the-elastic-stack)
+* Code: [Github](https://github.com/xeraa/php-monitoring)
 
 #### [How to onboard a junior developer](https://confoo.ca/en/yul2018/session/how-to-onboard-a-junior-developer)
 By [Christophe Philemotte](https://confoo.ca/en/speaker/christophe-philemotte)
@@ -448,6 +458,9 @@ By [Tom Chavez](https://confoo.ca/en/speaker/tom-chavez)
 #### [How to build your own CDN](https://confoo.ca/en/yul2018/session/how-to-build-your-own-cdn)
 By [Leonard Teo](https://confoo.ca/en/speaker/leonard-teo)
 
+* Twitter: [@leonardteo](https://twitter.com/leonardteo)
+* Github: [xeraa](https://github.com/xeraa)
+
 #### [PHP 7.2: Onward and Upwards](https://confoo.ca/en/yul2018/session/php-7-2-onward-and-upwards)
 By [John Coggeshall](https://confoo.ca/en/speaker/john-coggeshall)
 
@@ -476,6 +489,9 @@ By [Rob Richardson](https://confoo.ca/en/speaker/rob-richardson)
 
 #### [What is Domain Driven Design and Why it Matters](https://confoo.ca/en/yul2018/session/what-is-domain-driven-design-and-why-it-matters)
 By [Pierre-Luc Maheu](https://confoo.ca/en/speaker/pierre-luc-maheu)
+
+* Twitter: [plmaheu](https://twitter.com/plmaheu)
+* Deck: [SlideShare](https://www.slideshare.net/PierreLucMaheu/what-is-domain-driven-design-and-why-it-matters)
 
 #### [Workers of the world, unite!](https://confoo.ca/en/yul2018/session/workers-of-the-world-unite)
 By [Gleb Bahmutov](https://confoo.ca/en/speaker/gleb-bahmutov)
