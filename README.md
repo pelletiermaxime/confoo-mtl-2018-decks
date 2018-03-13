@@ -203,8 +203,15 @@ By [Nicolas Fränkel](https://confoo.ca/en/speaker/nicolas-fraenkel)
 #### [Atteindre les étoiles avec PHP et Symfony](https://confoo.ca/en/yul2018/session/atteindre-les-etoiles-avec-php-et-symfony)
 By [Mikael Randy](https://confoo.ca/en/speaker/mikael-randy)
 
+* Web: https://www.mikaelrandy.fr/
+* Twitter: [@mikaelrandy](https://twitter.com/mikaelrandy)
+* Github: [mikaelrandy](https://github.com/mikaelrandy)
+
 #### [Building chat bots with Bot Framework in Node.js](https://confoo.ca/en/yul2018/session/building-chat-bots-with-bot-framework-in-node-js-1)
 By [Christopher Harrison](https://confoo.ca/en/speaker/christopher-harrison)
+
+* Twitter: [GeekTrainer](https://twitter.com/GeekTrainer)
+* Code: [Github](https://github.com/GeekTrainer/confoo-mtl-2018-bots)
 
 #### [Build your own cryptocurrency for fun and fractional profit](https://confoo.ca/en/yul2018/session/build-your-own-cryptocurrency-for-fun-and-fractional-profit)
 By [Andrew Lombardi](https://confoo.ca/en/speaker/andrew-lombardi)
@@ -220,6 +227,12 @@ By [Weihang Jian](https://confoo.ca/en/speaker/weihang-jian)
 
 #### [Asynchronicity: concurrency. A tale of](https://confoo.ca/en/yul2018/session/asynchronicity-concurrency-a-tale-of)
 By [Joel Lord](https://confoo.ca/en/speaker/joel-lord)
+
+* Web: https://www.javascripteverything.com
+* Twitter: [@joel__lord](https://twitter.com/joel__lord)
+* Deck: [PDF](https://javascripteverything.com/slides/async-confoo.pdf)
+* Code: [Github](https://github.com/joellord/async-prog)
+* [Joind in](https://joind.in/event/confoo-montreal-2018/asynchronicity-concurrency-a-tale-of)
 
 #### [A simple Node checklist to follow](https://confoo.ca/en/yul2018/session/a-simple-node-checklist-to-follow)
 By [Gleb Bahmutov](https://confoo.ca/en/speaker/gleb-bahmutov)
@@ -339,6 +352,11 @@ By [Tomasz Kowalczyk](https://confoo.ca/en/speaker/tomasz-kowalczyk-1)
 #### [More Secrets of Cryptography](https://confoo.ca/en/yul2018/session/more-secrets-of-cryptography)
 By [Christopher Riley](https://confoo.ca/en/speaker/christopher-riley)
 
+* Web: https://carnage.github.io
+* Twitter: [@giveupalready](https://twitter.com/giveupalready)
+* Github: [carnage](https://github.com/carnage)
+* Deck: [Speaker Deck](https://carnage.github.io/talks/more-secrets-of-cryptography)
+
 #### [Using Ruby to Get out of Debt](https://confoo.ca/en/yul2018/session/using-ruby-to-get-out-of-debt)
 By [Jason Charnes](https://confoo.ca/en/speaker/jason-charnes)
 
@@ -391,8 +409,9 @@ By [Karim Baaba](https://confoo.ca/en/speaker/karim-baaba)
 #### [Build & deploy in the Cloud with Packer, Ansible & Terraform](https://confoo.ca/en/yul2018/session/build-deploy-in-the-cloud-with-packer-ansible-terraform)
 By [Thijs Feryn](https://confoo.ca/en/speaker/thijs-feryn)
 
-* Web: https://feryn.eu/
-* Deck: [feryn](https://feryn.eu/speaking/build-provision-deploy-cloud-packer-ansible-terraform-confoo-2018/)
+* Web: https://feryn.eu
+* Twitter: [@ThijsFeryn](https://twitter.com/ThijsFeryn)
+* Deck: [Speaker Deck](https://feryn.eu/speaking/build-provision-deploy-cloud-packer-ansible-terraform-confoo-2018)
 
 #### [Advanced search for your legacy application](https://confoo.ca/en/yul2018/session/advanced-search-for-your-legacy-application-1)
 By [David Pilato](https://confoo.ca/en/speaker/david-pilato)
@@ -527,6 +546,9 @@ By [Jordi Boggiano](https://confoo.ca/en/speaker/jordi-boggiano)
 #### [TypeScript for JavaScript developers](https://confoo.ca/en/yul2018/session/typescript-for-javascript-developers-1)
 By [Christopher Harrison](https://confoo.ca/en/speaker/christopher-harrison)
 
+* Twitter: [GeekTrainer](https://twitter.com/GeekTrainer)
+* Code: [Github](https://github.com/GeekTrainer/confoo-montreal-typescript-2018)
+
 #### [Your Views Know Too Much](https://confoo.ca/en/yul2018/session/your-views-know-too-much)
 By [Jason Charnes](https://confoo.ca/en/speaker/jason-charnes)
 
@@ -552,6 +574,11 @@ By [Nick Maiorano](https://confoo.ca/en/speaker/nick-maiorano)
 
 #### [Developing cacheable PHP applications](https://confoo.ca/en/yul2018/session/developing-cacheable-php-applications)
 By [Thijs Feryn](https://confoo.ca/en/speaker/thijs-feryn)
+
+* Web: https://feryn.eu
+* Twitter: [@ThijsFeryn](https://twitter.com/ThijsFeryn)
+* Deck: [Speaker Deck](https://feryn.eu/speaking/developing-cacheable-php-applications-confoo-2018)
+* Code: [Github](https://github.com/ThijsFeryn/cacheable-sites-symfony4)
 
 #### [10 things the media hasn't told you about React Native](https://confoo.ca/en/yul2018/session/10-things-the-media-hasn-t-told-you-about-react-native)
 By [Nicolas Cuillery](https://confoo.ca/en/speaker/nicolas-cuillery)
@@ -591,6 +618,11 @@ By [Derek Comartin](https://confoo.ca/en/speaker/derek-comartin)
 
 #### [Event driven development](https://confoo.ca/en/yul2018/session/event-driven-development)
 By [Christopher Riley](https://confoo.ca/en/speaker/christopher-riley)
+
+* Web: https://carnage.github.io
+* Twitter: [@giveupalready](https://twitter.com/giveupalready)
+* Github: [carnage](https://github.com/carnage)
+* Deck: [Speaker Deck](https://carnage.github.io/talks/event-driven-development)
 
 #### [Unbreakable unit tests](https://confoo.ca/en/yul2018/session/unbreakable-unit-tests-1)
 By [Michael Simonson](https://confoo.ca/en/speaker/michael-simonson-1)
@@ -651,6 +683,10 @@ By [Sebastien Lambla](https://confoo.ca/en/speaker/sebastien-lambla)
 #### [Sylius, un framework e-commerce basé sur Symfony](https://confoo.ca/en/yul2018/session/sylius-un-framework-e-commerce-base-sur-symfony)
 By [Mikael Randy](https://confoo.ca/en/speaker/mikael-randy)
 
+* Web: https://www.mikaelrandy.fr/
+* Twitter: [@mikaelrandy](https://twitter.com/mikaelrandy)
+* Github: [mikaelrandy](https://github.com/mikaelrandy)
+
 #### [PostgreSQL gotchas for app developers](https://confoo.ca/en/yul2018/session/postgresql-gotchas-for-app-developers)
 By [Magnus Hagander](https://confoo.ca/en/speaker/magnus-hagander)
 
@@ -710,6 +746,11 @@ By [Jen Kramer](https://confoo.ca/en/speaker/jen-kramer)
 
 #### [Learning Machine Learning](https://confoo.ca/en/yul2018/session/learning-machine-learning)
 By [Joel Lord](https://confoo.ca/en/speaker/joel-lord)
+
+* Web: https://www.javascripteverything.com
+* Twitter: [@joel__lord](https://twitter.com/joel__lord)
+* Deck: [PDF](https://javascripteverything.com/slides/machinelearning.pdf)
+* Code: [Github](https://github.com/joellord/machinelearning)
 
 #### [Services Assemble! How to Create Microservices Without Chaos](https://confoo.ca/en/yul2018/session/services-assemble-how-to-create-microservices-without-chaos)
 By [Mark Heckler](https://confoo.ca/en/speaker/mark-heckler)
