@@ -77,7 +77,7 @@ By [Jordi Boggiano](https://confoo.ca/en/speaker/jordi-boggiano)
 
 * Twitter: [@seldaek](https://twitter.com/seldaek)
 * Github: [Seldaek](https://github.com/Seldaek)
-* Deck: [Link](http://slides.seld.be/?file=2018-03-09+Javascript+State+of+the+Union.html#1)
+* Deck: [Link](http://slides.seld.be/?file=2018-03-07+How+I+learned+to+stop+worrying+and+love+Regular+Expressions.html#1)
 
 #### [Scale search powered apps with Elasticsearch, k8s and go](https://confoo.ca/en/yul2018/session/scale-search-powered-apps-with-elasticsearch-k8s-and-go)
 By [Maxime Boisvert](https://confoo.ca/en/speaker/maxime-boisvert-1)
