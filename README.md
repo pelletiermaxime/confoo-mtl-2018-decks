@@ -612,6 +612,10 @@ By [Adam L Barrett](https://confoo.ca/en/speaker/adam-l-barrett)
 #### [Building Cross Platform Progressive Web Apps](https://confoo.ca/en/yul2018/session/building-cross-platform-progressive-web-apps)
 By [Simon MacDonald](https://confoo.ca/en/speaker/simon-macdonald)
 
+* Web: https://www.simonmacdonald.com/
+* Twitter: [@macdonst](https://twitter.com/macdonst)
+* Deck: [Slides](http://slides.com/simonmacdonald/cross-platform-pwa-19-23-28)
+
 #### [Dive deep into blockchain](https://confoo.ca/en/yul2018/session/dive-deep-into-blockchain)
 By [Tomasz Kowalczyk](https://confoo.ca/en/speaker/tomasz-kowalczyk-1)
 
@@ -656,6 +660,10 @@ By [Christophe Porteneuve](https://confoo.ca/en/speaker/christophe-porteneuve)
 
 #### [MJML, le nouveau standard pour écrire nos emails ?](https://confoo.ca/en/yul2018/session/mjml-le-nouveau-standard-pour-ecrire-nos-emails)
 By [Thomas Deneulin](https://confoo.ca/en/speaker/thomas-deneulin)
+
+* Web: https://essential-dev-skills.com
+* Twitter: [@TDeneulin](https://twitter.com/TDeneulin)
+* Slides: [Web](https://essential-dev-skills.com/MJML)
 
 #### [Machine Data Is EVERYWHERE: Use It for Testing!](https://confoo.ca/en/yul2018/session/machine-data-is-everywhere-use-it-for-testing)
 By [Tom Chavez](https://confoo.ca/en/speaker/tom-chavez)
