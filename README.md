@@ -334,6 +334,10 @@ By [Clarissa Peterson](https://confoo.ca/en/speaker/clarissa-peterson)
 #### [Faire de la revue de code comme un pro](https://confoo.ca/en/yul2018/session/faire-de-la-revue-de-code-comme-un-pro)
 By [Marc-Antoine Aubé](https://confoo.ca/en/speaker/marc-antoine-aube-1)
 
+* Web: http://marcaube.ca
+* Twitter: [@maaube](https://twitter.com/maaube)
+* Deck: [Speaker Deck](https://speakerdeck.com/marcaube/faire-de-la-revue-de-code-comme-un-pro-confoo-montreal-2018)
+
 #### [Creating and Distributing Custom Web Components](https://confoo.ca/en/yul2018/session/creating-and-distributing-custom-web-components)
 By [Ken Dale](https://confoo.ca/en/speaker/ken-dale)
 
@@ -381,6 +385,11 @@ By [Jason Charnes](https://confoo.ca/en/speaker/jason-charnes)
 #### [Hot Reloading Everywhere](https://confoo.ca/en/yul2018/session/hot-reloading-everywhere)
 By [Christophe Porteneuve](https://confoo.ca/en/speaker/christophe-porteneuve)
 
+* Web: https://tddsworld.com
+* Twitter: [@porteneuve](https://twitter.com/porteneuve)
+* Deck: [Web](https://tdd.github.io/confoo2018-hot-reloading-everywhere)
+* Code: [Github](https://github.com/tdd/confoo2018-hot-reloading-everywhere)
+
 #### [API Development with Laravel](https://confoo.ca/en/yul2018/session/api-development-with-laravel)
 By [Michael Peacock](https://confoo.ca/en/speaker/michael-peacock)
 
@@ -419,8 +428,14 @@ By [Sophie Déziel](https://confoo.ca/en/speaker/sophie-deziel)
 #### [Techniques to Design Better Object Oriented Softwares](https://confoo.ca/en/yul2018/session/techniques-to-design-better-object-oriented-softwares)
 By [Hugo Hamon](https://confoo.ca/en/speaker/hugo-hamon)
 
+* Twitter: [@hhamon](https://twitter.com/hhamon)
+* Deck: [Speaker Deck](https://speakerdeck.com/hhamon/techniques-to-design-better-object-oriented-softwares)
+
 #### [Fighting JavaScript with JavaScript](https://confoo.ca/en/yul2018/session/front-end-localization)
 By [Karim Baaba](https://confoo.ca/en/speaker/karim-baaba)
+
+* Twitter: [@KarimBaaba](https://twitter.com/KarimBaaba)
+* Deck: [SlideShare](https://www.slideshare.net/karimbaaba/confoo-presentation-frontend-architecture)
 
 #### [Build & deploy in the Cloud with Packer, Ansible & Terraform](https://confoo.ca/en/yul2018/session/build-deploy-in-the-cloud-with-packer-ansible-terraform)
 By [Thijs Feryn](https://confoo.ca/en/speaker/thijs-feryn)
@@ -734,6 +749,10 @@ By [Ben Dechrai](https://confoo.ca/en/speaker/ben-dechrai)
 
 #### [So, what’s new in ES2020?](https://confoo.ca/en/yul2018/session/so-what-s-new-in-es2-2)
 By [Christophe Porteneuve](https://confoo.ca/en/speaker/christophe-porteneuve)
+
+* Web: https://tddsworld.com
+* Twitter: [@porteneuve](https://twitter.com/porteneuve)
+* Deck: [Web](https://tdd.github.io/confoo2018-es2020)
 
 #### [MJML, le nouveau standard pour écrire nos emails ?](https://confoo.ca/en/yul2018/session/mjml-le-nouveau-standard-pour-ecrire-nos-emails)
 By [Thomas Deneulin](https://confoo.ca/en/speaker/thomas-deneulin)
