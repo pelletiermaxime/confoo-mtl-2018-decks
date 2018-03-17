@@ -654,6 +654,10 @@ By [Michiel Rook](https://confoo.ca/en/speaker/michiel-rook)
 #### [Vertical Feature Slices, not Layers!](https://confoo.ca/en/yul2018/session/vertical-feature-slices-not-layers)
 By [Derek Comartin](https://confoo.ca/en/speaker/derek-comartin)
 
+* Web: https://codeopinion.com
+* Twitter: [@codeopinion](https://twitter.com/codeopinion)
+* Deck [Powerpoint](https://codeopinion.com/wp-content/uploads/2018/03/Vertical-Feature-Slices-not-Layers.pptx)
+
 ### 11:00-11:45
 
 #### [Event driven development](https://confoo.ca/en/yul2018/session/event-driven-development)
@@ -804,6 +808,10 @@ By [Jean-Luc David](https://confoo.ca/en/speaker/jean-luc-david-1)
 
 #### [Building Self Describing Web APIs](https://confoo.ca/en/yul2018/session/building-self-describing-web-apis)
 By [Derek Comartin](https://confoo.ca/en/speaker/derek-comartin)
+
+* Web: https://codeopinion.com
+* Twitter: [@codeopinion](https://twitter.com/codeopinion)
+* Deck [Powerpoint](https://codeopinion.com/wp-content/uploads/2018/03/Self-Descriptive-HTTP-API-Short.pptx)
 
 #### [Mental Health: Lessons Learned and Tips and Tricks](https://confoo.ca/en/yul2018/session/mental-health-lessons-learned-and-tips-and-tricks)
 By [Stéphane Boisvert](https://confoo.ca/en/speaker/stephane-boisvert)
